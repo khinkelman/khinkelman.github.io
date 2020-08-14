@@ -4,6 +4,12 @@
 Fork this repo, then rename the repository to **yourgithubusername.github.io**. 
 Your Jekyll site will often be viewable immediately at <https://yourgithubusername.github.io>.
 
+#### Build locally (optional)
+1. Install [Ruby development environment](https://jekyllrb.com/docs/installation/)
+2. Intall Jekyll and bundler gems: `gem install jekyll bundler`
+3. Change into your directory: `cd website` 
+4. Run server: `jekyll serve --watch`
+5. View website at `http://127.0.0.1:4000/`
 
 ## More information
 * [Jekyll](https://github.com/jekyll/jekyll), a static site generator
