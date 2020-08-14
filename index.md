@@ -1,15 +1,19 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: Katy Hinkelman
+categories:
+ - home
 ---
+<img src="{{ site.baseurl }}/images/profileRound.jpg" alt="profile"
+	title="Katy Hinkelman" width="250" style="float: right;" />
+
+# About
 
 ### Kathryn (Katy) Hinkelman, MS, EIT
 PhD Student, University of Colorado Boulder <br />
 Research Assistant, Sustainable Buildings and Societies Laboratory <br />
 
 **Contact:** kathryn(dot)hinkelman(at)colorado(dot)edu
-
 
 ### Background
 
@@ -34,7 +38,7 @@ Smart-sustainable-stable communities, modeling & simulation, district energy sys
 10/2019 - 08/2021: NSF - [BIGDATA: Collaborative Research: IA: Big Data Analytics for Optimized Planning of Smart, Sustainable, and Connected Communities](https://www.colorado.edu/lab/sbs/nsf-bigdata-scc) (with Virginia Tech)
 
 
-## Website Design and Implementation
+### Website Design and Implementation
 
 This site was largely copied and customized from [jekyll-now](https://github.com/barryclark/jekyll-now).
 This site’s source code is freely available on [GitHub](https://github.com/khinkelman/khinkelman.github.io) under the MIT License. 
