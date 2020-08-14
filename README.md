@@ -6,13 +6,13 @@ Your Jekyll site will often be viewable immediately at <https://yourgithubuserna
 
 
 ## More information
-Jekyll is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll)). 
-Jekyll Now makes it easier to create your Jekyll site by eliminating a lot of the up front setup.
-
+* [Jekyll](https://github.com/jekyll/jekyll), a static site generator
+* [Build a Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), a more detailed walkthrough with Jekyll Now 
+* [Markdown](https://www.jekyllnow.com/Markdown-Style-Guide/) cheat sheet
 
 ## About
 This is a personal website that was largely adopted and customized from 
-[**jekyll-now**](https://github.com/barryclark/jekyll-now). You're welcome
+[jekyll-now](https://github.com/barryclark/jekyll-now). You're welcome
 to borrow/repurpose code to build your own site, and if you do, I'd apprecaite
 attribution and a link back [here](https://khinkelman.github.io/about).
 
