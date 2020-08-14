@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 
-### Education
+## Education
 
 **University of Colorado Boulder**, expected May 2022  
 PhD Student, Architectural Engineering  
@@ -19,7 +19,7 @@ Concentration in Design | GPA: 4.0
 BS in Mechanical Engineering  
 Summa Cum Laude, Phi Beta Kappa, Departmental Distinction | GPA: 3.97
 
-### Publications
+## Publications
 #### Journal Publications
 
 Ye, Yunyang, **Kathryn Hinkelman**, Jian Zhang, Wangda Zuo, and Gang Wang. 2019. 
@@ -55,20 +55,20 @@ In Procedia CIRP, 29:372–77. Sydney, Australia.
 #### Technical Reports (Not Peer-Reviewed)
 
 
-### Presentations
+## Presentations
 #### Peer-Reviewed Poster Sessions
 
 #### Presentation Sessions
 
-### Professional Experience
+## Professional Experience
 
-### Teaching Experience
+## Teaching Experience
 
-### Select Research Projects
+## Select Research Projects
 
-### Leadership
+## Leadership
 
-### Awards and Scholarships
+## Awards and Scholarships
 
 * International Building Performance Simulation Association (IBPSA) Project 1 
 Scholarship Recipient, 2019
@@ -90,7 +90,7 @@ University of Denver), 2013
 * CS360's Primetime Performers of the Week (9/15), 2009
 
 
-### Professional Associations
+## Professional Associations
 
 * ASHRAE: American Society of Heating, Refrigerating and Air-Conditionin
 Engineers, 2017 – Present

@@ -22,7 +22,7 @@ Before joining CU Boulder, Katy worked at the Boulder Engineering Company for th
 
 ### Research Interests
 
-Smart & sustainable communities, district energy systems, modeling & simulation, biomimicry, human centered design, life cycle assessment
+Smart-sustainable-stable communities, modeling & simulation, district energy systems, biomimicry, ecology, human centered design, indoor/outdoor environmental quality, life cycle assessment
 
 
 ### Research Projects
@@ -36,6 +36,7 @@ Smart & sustainable communities, district energy systems, modeling & simulation,
 
 ## Website Design and Implementation
 
-This site was largely copied from [jekyll-now](https://github.com/barryclark/jekyll-now).
+This site was largely copied and customized from [jekyll-now](https://github.com/barryclark/jekyll-now).
 This site’s source code is freely available on [GitHub](https://github.com/khinkelman/khinkelman.github.io) under the MIT License. 
-You’re welcome to borrow / repurpose code to build your own site, and if you do, I’d appreciate attribution and a link back [here](https://khinkelman.github.io/about).
+You’re welcome to borrow / repurpose code to build your own site, and if you do, I’d appreciate your kind attribution and a link back [here](https://khinkelman.github.io/about). 
+Thank you!
