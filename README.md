@@ -17,10 +17,9 @@ Your Jekyll site will often be viewable immediately at <https://yourgithubuserna
 * [Markdown](https://www.jekyllnow.com/Markdown-Style-Guide/) cheat sheet
 
 ## About
-This is a personal website that was largely adopted and customized from 
-[jekyll-now](https://github.com/barryclark/jekyll-now). You're welcome
-to borrow/repurpose code to build your own site, and if you do, I'd apprecaite
-attribution and a link back [here](https://khinkelman.github.io/about).
+This website was largely adopted and customized from [jekyll-now](https://github.com/barryclark/jekyll-now). 
+You're welcome to borrow/repurpose code to build your own site, and if you do, I'd apprecaite your kind
+attribution and a link back [here](https://khinkelman.github.io/). Thank you!
 
 
 ## License
