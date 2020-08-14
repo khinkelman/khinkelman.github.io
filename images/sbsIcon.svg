@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="40"
+   viewBox="0 0 10.583333 10.583333"
+   version="1.1"
+   id="svg1289"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="sbsIcon.svg"
+   inkscape:export-filename="C:\Users\Katy\github\khinkelman.github.io\images\googleScholar.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs1283">
+    <clipPath
+       id="clip0-9">
+      <path
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path1106"
+         d="M 76,103 H 547 V 575 H 76 Z" />
+    </clipPath>
+    <clipPath
+       id="clip0-9-4">
+      <path
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path1106-8"
+         d="M 76,103 H 547 V 575 H 76 Z" />
+    </clipPath>
+    <clipPath
+       id="clip0-6">
+      <path
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path1015"
+         d="m 805,210 h 340 V 551 H 805 Z" />
+    </clipPath>
+    <clipPath
+       id="clip0-4">
+      <path
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4541-8"
+         d="M 596,63 H 759 V 226 H 596 Z" />
+    </clipPath>
+    <clipPath
+       id="clip0-6-9">
+      <path
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path1015-2"
+         d="m 805,210 h 340 V 551 H 805 Z" />
+    </clipPath>
+    <clipPath
+       id="clip0-4-1">
+      <path
+         d="M 596,63 H 759 V 226 H 596 Z"
+         id="path4541-8-6"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+    </clipPath>
+    <clipPath
+       id="clip0-9-0">
+      <path
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path1106-83"
+         d="M 76,103 H 547 V 575 H 76 Z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="26.808519"
+     inkscape:cy="21.509953"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1286">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-286.41667)">
+    <g
+       style="overflow:hidden"
+       id="g1203"
+       transform="matrix(0.02246992,0,0,0.02246992,5.0666666e-7,286.40544)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g1165"
+         transform="translate(-76,-103)"
+         clip-path="url(#clip0-9-0)">
+        <path
+           id="path1111"
+           d="M 76,339 C 76,209.213 181.437,104 311.5,104 441.563,104 547,209.213 547,339 547,468.787 441.563,574 311.5,574 181.437,574 76,468.787 76,339 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#bfbfbf;fill-rule:evenodd" />
+        <text
+           id="text1113"
+           transform="translate(213.673,432)"
+           font-size="88"
+           font-weight="900"
+           style="font-weight:900;font-size:88px;font-family:Arial, Arial_MSFontService, sans-serif;fill:#548235">SBS</text>
+        <path
+           id="path1115"
+           d="m 386.558,160.215 71.765,71.765 -10.861,10.861 -71.765,-71.765 z"
+           inkscape:connector-curvature="0"
+           style="fill:#548235;fill-rule:evenodd" />
+        <path
+           id="path1117"
+           d="m 396.296,171.191 -53.652,53.652 -10.861,-10.861 53.652,-53.652 z"
+           inkscape:connector-curvature="0"
+           style="fill:#548235;fill-rule:evenodd" />
+        <rect
+           id="rect1119"
+           height="128"
+           width="15"
+           y="232"
+           x="443"
+           style="fill:#548235" />
+        <rect
+           id="rect1121"
+           height="15"
+           width="38"
+           y="345"
+           x="443"
+           style="fill:#548235" />
+        <rect
+           id="rect1123"
+           height="125"
+           width="15"
+           y="214"
+           x="332"
+           style="fill:#548235" />
+        <rect
+           id="rect1125"
+           height="15"
+           width="42"
+           y="324"
+           x="305"
+           style="fill:#548235" />
+        <rect
+           id="rect1127"
+           height="96"
+           width="15"
+           y="243"
+           x="305"
+           style="fill:#548235" />
+        <rect
+           id="rect1129"
+           height="15"
+           width="28"
+           y="243"
+           x="291"
+           style="fill:#548235" />
+        <rect
+           id="rect1131"
+           height="39"
+           width="15"
+           y="219"
+           x="291"
+           style="fill:#548235" />
+        <rect
+           id="rect1133"
+           height="15"
+           width="39"
+           y="219"
+           x="267"
+           style="fill:#548235" />
+        <rect
+           id="rect1135"
+           height="16"
+           width="29"
+           y="242"
+           x="253"
+           style="fill:#548235" />
+        <rect
+           id="rect1137"
+           height="39"
+           width="16"
+           y="219"
+           x="267"
+           style="fill:#548235" />
+        <rect
+           id="rect1139"
+           height="67"
+           width="15"
+           y="242"
+           x="254"
+           style="fill:#548235" />
+        <rect
+           id="rect1141"
+           height="15"
+           width="48"
+           y="295"
+           x="221"
+           style="fill:#548235" />
+        <rect
+           id="rect1143"
+           height="115"
+           width="15"
+           y="193"
+           x="221"
+           style="fill:#548235" />
+        <rect
+           id="rect1145"
+           height="15"
+           width="38"
+           y="193"
+           x="198"
+           style="fill:#548235" />
+        <rect
+           id="rect1147"
+           height="67"
+           width="15"
+           y="193"
+           x="198"
+           style="fill:#548235" />
+        <rect
+           id="rect1149"
+           height="15"
+           width="48"
+           y="245"
+           x="165"
+           style="fill:#548235" />
+        <rect
+           id="rect1151"
+           height="151"
+           width="15"
+           y="245"
+           x="165"
+           style="fill:#548235" />
+        <rect
+           id="rect1153"
+           height="103"
+           width="15"
+           y="345"
+           x="466"
+           style="fill:#548235" />
+        <rect
+           id="rect1155"
+           height="15"
+           width="29"
+           y="433"
+           x="467"
+           style="fill:#548235" />
+        <rect
+           id="rect1157"
+           height="16"
+           width="39"
+           y="380"
+           x="141"
+           style="fill:#548235" />
+        <rect
+           id="rect1159"
+           height="68"
+           width="16"
+           y="380"
+           x="141"
+           style="fill:#548235" />
+        <rect
+           id="rect1161"
+           height="15"
+           width="29"
+           y="433"
+           x="127"
+           style="fill:#548235" />
+        <path
+           id="path1163"
+           d="m 477.8,172.478 c 91.815,91.887 91.756,240.808 -0.131,332.623 -91.862,91.789 -240.732,91.76 -332.558,-0.066 L 311.423,338.723 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0.10196102;fill-rule:evenodd" />
+      </g>
+    </g>
+  </g>
+</svg>
