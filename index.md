@@ -7,13 +7,13 @@ categories:
 <img src="{{ site.baseurl }}/images/profileRound.jpg" alt="profile"
 	title="Katy Hinkelman" width="250" style="float: right;" />
 
-# About
-
-### Kathryn (Katy) Hinkelman, MS, EIT
+## Kathryn (Katy) Hinkelman, MS, EIT
 PhD Student, University of Colorado Boulder <br />
 Research Assistant, Sustainable Buildings and Societies Laboratory <br />
 
 **Contact:** kathryn(dot)hinkelman(at)colorado(dot)edu
+
+[**Curriculum Vitae**](KHinkelman_CV.pdf) 
 
 ### Background
 
