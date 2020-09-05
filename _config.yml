@@ -18,6 +18,7 @@ avatar: https://raw.githubusercontent.com/khinkelman/khinkelman.github.io/master
 # Includes an icon in the footer for each username you enter
 footer-links:
   email:
+  researchgate: Kathryn_Hinkelman3  # Your profile name that comes after researchgate.net/profile/
   googlescholar: citations?user=ZB1OQFAAAAAJ&hl=en&authuser= # anything in your profile username that comes after scholar.google.ca/ 
   github: khinkelman/khinkelman.github.io
   instagram:
