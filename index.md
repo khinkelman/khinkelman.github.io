@@ -26,7 +26,7 @@ Before joining CU Boulder, Katy worked at the Boulder Engineering Company for th
 
 ### Research Interests
 
-Smart-sustainable-stable communities, modeling & simulation, district energy systems, biomimicry, ecology, human centered design, indoor/outdoor environmental quality, life cycle assessment
+Smart and connected communities, urban-scale energy modeling, district energy systems, biomimicry, community sustainability & resiliency, design thinking, indoor/outdoor environmental quality, life cycle assessment
 
 
 ### Research Projects
