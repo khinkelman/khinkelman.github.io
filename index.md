@@ -5,7 +5,7 @@ categories:
  - home
 ---
 <img src="{{ site.baseurl }}/images/profile.jpg" alt="profile"
-	title="Katy Hinkelman" width="350" style="float: right;" />
+	title="Katy Hinkelman" width="250" style="float: right;" />
 
 ## Kathryn (Katy) Hinkelman, MS, EIT
 P.E.O. Scholar <br />
