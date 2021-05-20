@@ -8,10 +8,10 @@ categories:
 	title="Katy Hinkelman" width="200" style="float: right;" />
 
 ## Kathryn (Katy) Hinkelman, MS, EIT
-P.E.O. Scholar <br />
-D.O.E. IBUILD Graduate Research Fellow <br />
 PhD Student, University of Colorado Boulder <br />
 Research Assistant, Sustainable Buildings and Societies Laboratory <br />
+P.E.O. Scholar <br />
+D.O.E. IBUILD Graduate Research Fellow <br />
 
 **Contact:** kathryn(dot)hinkelman(at)colorado(dot)edu
 
