@@ -8,6 +8,8 @@ categories:
 	title="Katy Hinkelman" width="350" style="float: right;" />
 
 ## Kathryn (Katy) Hinkelman, MS, EIT
+P.E.O. Scholar <br />
+D.O.E. IBUILD Graduate Research Fellow <br />
 PhD Student, University of Colorado Boulder <br />
 Research Assistant, Sustainable Buildings and Societies Laboratory <br />
 
@@ -17,16 +19,24 @@ Research Assistant, Sustainable Buildings and Societies Laboratory <br />
 
 ### Background
 
-Katy received her B.S. degree in Mechanical Engineering from the University of Denver in 2013, where she also played for the university’s D1 women’s soccer program. 
-At DU, she graduated Summa Cum Laude with departmental distinction, was elected into the Phi Beta Kappa society for excellence in the liberal arts and sciences, and was named First Team COSIDA Academic All-American for Women's Soccer in the 2011-12 season. 
+Katy received her B.S. degree in Mechanical Engineering from the University of Denver in 2013, 
+where she also played for the university’s D1 women’s soccer program. 
+At DU, she graduated summa cum laude with departmental distinction, 
+was elected into the Phi Beta Kappa society for excellence in the liberal arts and sciences, 
+and was named First Team COSIDA Academic All-American for Women's Soccer in the 2011-12 season. 
 In 2015, she received her M.S. degree in Mechanical Engineering from the University of California at Berkeley. 
-Her master’s research focused on the environmental impact analysis and co-design of culturally-centered homes with a California Native American tribe, the Pinoleville Pomo Nation. 
-Before joining CU Boulder, Katy worked at the Boulder Engineering Company for three years where she designed electrical and mechanical systems for multi-family residential and commercial buildings across the United States.
+Her master’s research focused on the environmental impact analysis and co-design of 
+culturally-centered homes with a California Native American tribe, the Pinoleville Pomo Nation. 
+Before joining CU Boulder, Katy worked at the Boulder Engineering Company for three years 
+where she designed electrical and mechanical systems for multi-family residential and 
+commercial buildings across the United States.
 
 
 ### Research Interests
 
-Smart and connected communities, urban-scale energy modeling, district energy systems, biomimicry, community sustainability & resiliency, design thinking, indoor/outdoor environmental quality, life cycle assessment
+Smart and connected communities, urban-scale energy modeling, district energy systems, 
+biomimicry, community sustainability & resiliency, design thinking, 
+indoor/outdoor environmental quality, life cycle assessment
 
 
 ### Research Projects
