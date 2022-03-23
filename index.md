@@ -13,7 +13,7 @@ Research Assistant, Sustainable Buildings and Societies Laboratory <br />
 P.E.O. Scholar <br />
 D.O.E. IBUILD Graduate Research Fellow <br />
 
-**Contact:** k(dot)hinkelman(at)psu(dot)edu
+**Contact:** khinkelman(at)psu(dot)edu
 
 [**Curriculum Vitae**](KHinkelman_CV.pdf) 
 
