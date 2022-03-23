@@ -59,3 +59,4 @@ This site was largely copied and customized from [jekyll-now](https://github.com
 This site’s source code is freely available on [GitHub](https://github.com/khinkelman/khinkelman.github.io) under the MIT License. 
 You’re welcome to borrow / repurpose code to build your own site, and if you do, I’d appreciate your kind attribution and a link back [here](https://khinkelman.github.io/). 
 Thank you!
+
