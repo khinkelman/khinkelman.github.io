@@ -8,14 +8,15 @@ categories:
 	title="Katy Hinkelman" width="200" style="float: right;" />
 
 ## Kathryn (Katy) Hinkelman, M.S., E.I.T.
-Ph.D. Student, Architectural Engineering, Pennsylvania State University <br />
+Ph.D. Candidate, Architectural Engineering, Pennsylvania State University <br />
 Research Assistant, Sustainable Buildings and Societies Laboratory <br />
-P.E.O. Scholar <br />
 D.O.E. IBUILD Graduate Research Fellow <br />
+P.E.O. International Scholar <br />
 
 **Contact:** khinkelman(at)psu(dot)edu
 
 [**Curriculum Vitae**](KHinkelman_CV.pdf) 
+
 
 ### Background
 
@@ -37,14 +38,14 @@ resilient communities.
 
 ### Research Interests
 
-Smart and connected communities, urban-scale energy modeling, district energy systems, 
-biomimicry, community sustainability & resiliency, design thinking, 
-indoor/outdoor environmental quality, life cycle assessment
+Smart & sustainable communities, district energy systems, modeling & simulation, 
+ecosystem biomimicry, nature-inspired design, human centered design, 
+advanced building controls, life cycle assessment
 
 
 ### Research Projects
 
-08/2021 – 08/2022: DOE IBUILD Graduate Research Fellowship – [Biomimetic Community Energy and Power System](https://ibuildfellowship.org/)
+08/2021 – 08/2022: DOE IBUILD Graduate Research Fellowship – [Biomimetic Integrated Community Energy and Power System (BICEPS)](https://sites.psu.edu/sbslab/research/city/biceps/)
 
 07/2020 - 07/2022: NSF/DOS - [Modernizing Cities via Smart Garden Alleys with Application in Makassar City](https://www.colorado.edu/lab/sbs/2020/07/17/modernizing-cities-smart-garden-alleys-application-makassar-city) (with Virginia Tech, Universitas Gadjah Mada, Institut Teknologi Bandung)
 
