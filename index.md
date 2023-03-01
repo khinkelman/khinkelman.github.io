@@ -11,7 +11,6 @@ categories:
 Ph.D. Candidate, Architectural Engineering, Pennsylvania State University <br />
 Research Assistant, Sustainable Buildings and Societies Laboratory <br />
 D.O.E. IBUILD Graduate Research Fellow <br />
-P.E.O. International Scholar <br />
 
 **Contact:** khinkelman(at)psu(dot)edu
 
@@ -38,9 +37,10 @@ resilient communities.
 
 ### Research Interests
 
-Smart & sustainable communities, district energy systems, modeling & simulation, 
-ecosystem biomimicry, nature-inspired design, human centered design, 
-advanced building controls, life cycle assessment
+Sustainable energy systems (cities, districts, buildings), thermal-fluid science, 
+model-based systems engineering, equation-based modeling (Modelica), 
+ecosystem biomimicry, life cycle assessment, building controls, design thinking, 
+systems thinking
 
 
 ### Research Projects
