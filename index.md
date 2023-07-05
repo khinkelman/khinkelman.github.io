@@ -7,10 +7,9 @@ categories:
 <img src="{{ site.baseurl }}/images/profile.jpg" alt="profile"
 	title="Katy Hinkelman" width="200" style="float: right;" />
 
-## Kathryn (Katy) Hinkelman, M.S., E.I.T.
-Ph.D. Candidate, Architectural Engineering, Pennsylvania State University <br />
-Research Assistant, Sustainable Buildings and Societies Laboratory <br />
-D.O.E. IBUILD Graduate Research Fellow <br />
+## Kathryn (Katy) Hinkelman, Ph.D.
+Postdoctoral Scholar, Sustainable Buildings and Societies Laboratory <br />
+Department of Architectural Engineering, Pennsylvania State University <br />
 
 **Contact:** khinkelman(at)psu(dot)edu
 
@@ -29,7 +28,8 @@ focused on the environmental impact analysis and co-design of culturally-centere
 a California Native American tribe, the Pinoleville Pomo Nation. Before starting her doctoral 
 studies, Katy worked at the Boulder Engineering Company for three years where she designed 
 electrical and mechanical systems for multi-family residential and commercial buildings across 
-the United States. Her doctoral research focuses on modeling and simulation of community-scale 
+the United States. Katy received her Ph.D. in Architectural Engineering from the Pennsylvania
+State University in 2023. Her doctoral research focused on modeling and simulation of community-scale 
 energy systems using the Modelica language, including traditional district heating and cooling 
 systems and innovative biomimetic (nature imitating) designs for future sustainable and 
 resilient communities. 
@@ -45,7 +45,7 @@ systems thinking
 
 ### Research Projects
 
-08/2021 – 08/2022: DOE IBUILD Graduate Research Fellowship – [Biomimetic Integrated Community Energy and Power System (BICEPS)](https://sites.psu.edu/sbslab/research/city/biceps/)
+08/2021 – 07/2023: DOE IBUILD Graduate Research Fellowship – [Biomimetic Integrated Community Energy and Power System (BICEPS)](https://sites.psu.edu/sbslab/research/city/biceps/)
 
 07/2020 - 07/2022: NSF/DOS - [Modernizing Cities via Smart Garden Alleys with Application in Makassar City](https://www.colorado.edu/lab/sbs/2020/07/17/modernizing-cities-smart-garden-alleys-application-makassar-city) (with Virginia Tech, Universitas Gadjah Mada, Institut Teknologi Bandung)
 
