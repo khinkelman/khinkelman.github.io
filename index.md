@@ -9,7 +9,8 @@ categories:
 
 ## Kathryn (Katy) Hinkelman, Ph.D.
 Postdoctoral Scholar, Sustainable Buildings and Societies Laboratory <br />
-Department of Architectural Engineering, Pennsylvania State University <br />
+Department of Architectural Engineering <br />
+Pennsylvania State University <br />
 
 **Contact:** khinkelman(at)psu(dot)edu
 
