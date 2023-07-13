@@ -39,9 +39,8 @@ resilient communities.
 ### Research Interests
 
 Sustainable energy systems (cities, districts, buildings), thermal-fluid science, 
-model-based systems engineering, equation-based modeling (Modelica), 
-ecosystem biomimicry, life cycle assessment, building controls, design thinking, 
-systems thinking
+model-based systems engineering, equation-based modeling (Modelica), ecosystem biomimicry, 
+human centered design, life cycle assessment, building controls, design thinking
 
 
 ### Research Projects
