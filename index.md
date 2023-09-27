@@ -45,17 +45,17 @@ human centered design, life cycle assessment, building controls, design thinking
 
 ### Research Projects
 
-07/2023 - Present: DOE – [Optimal Co-Design of Integrated Thermal-Electrical Networks and Control Systems for Grid-interactive Efficient District (GED) Energy Systems](https://sites.psu.edu/sbslab/research/city/grid-interactive-efficient-district-energy-system/) (with RPI, UT Austin, LBNL, NREL & Amzur technologies)
+07/2023 - Present: DOE -- [Optimal Co-Design of Integrated Thermal-Electrical Networks and Control Systems for Grid-interactive Efficient District (GED) Energy Systems](https://sites.psu.edu/sbslab/research/city/grid-interactive-efficient-district-energy-system/) (with RPI, UT Austin, LBNL, NREL & Amzur technologies)
 
 07/2023 - Present: [Smart, Sustainable and Resilient (SSR) Home Test Facility](https://sites.psu.edu/sbslab/research/buildings/ssr/)
 
-08/2021 – 07/2023: DOE IBUILD Graduate Research Fellowship – [Biomimetic Integrated Community Energy and Power System (BICEPS)](https://sites.psu.edu/sbslab/research/city/biceps/)
+08/2021 - 07/2023: DOE IBUILD Graduate Research Fellowship -- [Biomimetic Integrated Community Energy and Power System (BICEPS)](https://sites.psu.edu/sbslab/research/city/biceps/)
 
-07/2020 - 07/2022: NSF/DOS - [Modernizing Cities via Smart Garden Alleys with Application in Makassar City](https://www.colorado.edu/lab/sbs/2020/07/17/modernizing-cities-smart-garden-alleys-application-makassar-city) (with Virginia Tech, Universitas Gadjah Mada, Institut Teknologi Bandung)
+07/2020 - 07/2022: NSF/DOS -- [Modernizing Cities via Smart Garden Alleys with Application in Makassar City](https://www.colorado.edu/lab/sbs/2020/07/17/modernizing-cities-smart-garden-alleys-application-makassar-city) (with Virginia Tech, Universitas Gadjah Mada, Institut Teknologi Bandung)
 
-03/2019 - 03/2022: DOE - [Support for District Energy Simulation with Modelica](https://www.colorado.edu/lab/sbs/2019/06/12/support-district-energy-simulation-modelica) (with NREL & LBNL)
+03/2019 - 03/2022: DOE -- [Support for District Energy Simulation with Modelica](https://www.colorado.edu/lab/sbs/2019/06/12/support-district-energy-simulation-modelica) (with NREL & LBNL)
 
-10/2019 - 08/2021: NSF - [BIGDATA: Collaborative Research: IA: Big Data Analytics for Optimized Planning of Smart, Sustainable, and Connected Communities](https://www.colorado.edu/lab/sbs/nsf-bigdata-scc) (with Virginia Tech)
+10/2019 - 08/2021: NSF -- [BIGDATA: Collaborative Research: IA: Big Data Analytics for Optimized Planning of Smart, Sustainable, and Connected Communities](https://www.colorado.edu/lab/sbs/nsf-bigdata-scc) (with Virginia Tech)
 
 
 ### Website Design and Implementation
