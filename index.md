@@ -19,31 +19,35 @@ Pennsylvania State University <br />
 
 ### Background
 
-Katy received a B.S. degree in Mechanical Engineering from the University of Denver in 2013, 
-where she also played for the university’s D1 women’s soccer program. At DU, she graduated 
-Summa Cum Laude with departmental distinction, was elected into the Phi Beta Kappa society 
-for excellence in the liberal arts and sciences, and was named First Team COSIDA Academic 
-All-American for Women’s Soccer in the 2011-12 season. In 2015, she received her M.S. degree 
-in Mechanical Engineering from the University of California at Berkeley. Her master’s research 
-focused on the environmental impact analysis and co-design of culturally-centered homes with 
-a California Native American tribe, the Pinoleville Pomo Nation. Before starting her doctoral 
-studies, Katy worked at the Boulder Engineering Company for three years where she designed 
-electrical and mechanical systems for multi-family residential and commercial buildings across 
-the United States. Katy received her Ph.D. in Architectural Engineering from the Pennsylvania
-State University in 2023. Her doctoral research focused on modeling and simulation of community-scale 
-energy systems using the Modelica language, including traditional district heating and cooling 
-systems and innovative biomimetic (nature imitating) designs for future sustainable and 
-resilient communities. 
+Dr. Kathryn Hinkelman has a B.S. in Mechanical Engineering from the University of Denver, 
+an M.S. in Mechanical Engineering from the University of California at Berkeley, 
+and a Ph.D. in Architectural Engineering from Pennsylvania State University. 
+She is a recipient of the U.S. Department of Energy IBUILD Fellowship, 
+the international P.E.O. Scholar Award, and Phi Beta Kappa. 
+Before her doctoral studies, Kathryn worked at the Boulder Engineering Company, 
+where she designed electrical and mechanical systems for multi-family residential 
+and commercial buildings across the United States. 
+Her research focuses on modeling and simulation of building and district energy 
+systems and controls, to improve active systems deployed today and design innovative 
+biomimetic solutions for future sustainable and resilient communities. 
+She is an expert in Modelica, and over a dozen of her models have been publicly 
+released in LBNL’s Modelica Buildings Library and the IBPSA Modelica Library. 
+These libraries are part of the U.S. Department of Energy's next generation tools for advanced
+building energy modeling and simulation.
 
 
 ### Research Interests
 
 Sustainable energy systems (cities, districts, buildings), thermal-fluid science, 
-model-based systems engineering, equation-based modeling (Modelica), ecosystem biomimicry, 
+equation-based modeling (Modelica), numerical simulation, biomimicry/bio-inspired design, 
 human centered design, life cycle assessment, building controls, design thinking
 
 
 ### Research Projects
+
+07/2023 - Present: DOE – [Optimal Co-Design of Integrated Thermal-Electrical Networks and Control Systems for Grid-interactive Efficient District (GED) Energy Systems](https://sites.psu.edu/sbslab/research/city/grid-interactive-efficient-district-energy-system/) (with RPI, UT Austin,LBNL, NREL & Amzur technologies)
+
+07/2023 - Present: [Smart, Sustainable and Resilient (SSR) Home Test Facility](https://sites.psu.edu/sbslab/research/buildings/ssr/)
 
 08/2021 – 07/2023: DOE IBUILD Graduate Research Fellowship – [Biomimetic Integrated Community Energy and Power System (BICEPS)](https://sites.psu.edu/sbslab/research/city/biceps/)
 
